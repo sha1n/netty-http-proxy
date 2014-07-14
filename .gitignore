@@ -1,0 +1,10 @@
+# Maven
+target/
+pom.xml
+
+# IntelliJ
+*.iml
+.idea
+
+# OSX
+.DS_Store
